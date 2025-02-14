@@ -1,7 +1,7 @@
 # AdafruitMacropadJoystick
 Repo for FRC team-3691 [Adafruit MacroPad](https://www.adafruit.com/product/5128) implementation using Arduino.
 
-#Setp MacroPad
+#Setup MacroPad
 1. Follow the [Adafruit MacroPad Arduino setup instructions.](https://learn.adafruit.com/adafruit-macropad-rp2040/arduino-ide-setup) (Stop once you have tested your setup by running the example code)
 2. Download and open the source (.ino) file into the Arduino IDE.
 3. Compile the source (.ino) and load it onto your Adafruit MacroPad.
